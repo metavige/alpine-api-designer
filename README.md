@@ -7,6 +7,6 @@ docker run -d -p 3000:3000 metavige/alpine-api-designer
 
 ## Use
 
-Open `http://localhost:3000' 
+Open `http://localhost:3000`
 
 
